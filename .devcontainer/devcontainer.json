@@ -9,6 +9,7 @@
             "moby": false
         }
     },
+    "remoteUser": "root",
     "settings": {
         "terminal.integrated.defaultProfile.linux": "bash"
     },
